@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  BoardStateCheckerTests.cpp
+  BoardTests.cpp
+  PieceTests.cpp
+  Generating Code...
+C:\Users\PotiraşCŞtefan\Desktop\Quarto (Step5) Board iterators and UnitTests-20220111\QuartoTests\BoardStateCheckerTests.cpp(23): warning C4715: 'Microsoft::VisualStudio::CppUnitTestFramework::ToString<enum BoardStateChecker::State>': not all control paths return a value
+     Creating library C:\Users\PotiraşCŞtefan\Desktop\Quarto (Step5) Board iterators and UnitTests-20220111\x64\Debug\QuartoTests.lib and object C:\Users\PotiraşCŞtefan\Desktop\Quarto (Step5) Board iterators and UnitTests-20220111\x64\Debug\QuartoTests.exp
+  QuartoTests.vcxproj -> C:\Users\PotiraşCŞtefan\Desktop\Quarto (Step5) Board iterators and UnitTests-20220111\x64\Debug\QuartoTests.dll
